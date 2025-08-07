@@ -2,6 +2,10 @@
 This project demonstrates how to predict housing prices using a linear regression model built with Python. The dataset contains various property-related features such as area, number of bedrooms, bathrooms, stories, and whether facilities like a main road or guestroom are available.
 The goal is to train a machine learning model that can estimate house prices based on these features.
 
+Intallation:-
+
+pip install pandas numpy scikit-learn matplotlib
+
 The process includes:
 1.Loading and exploring the dataset (Housing.csv)
 
@@ -39,10 +43,12 @@ Matplotlib
 📁Dataset
 The dataset Housing.csv must be placed in the same directory for the notebook or script to work.
 
-### 📈 Model Performance Summary
+### 📈 Model Performance Results
 
 | Metric        | Value                  |
 |---------------|------------------------|
 | 🔹 MAE         | 970,043.40             |
 | 🔹 MSE         | 1,754,318,687,330.66   |
 | 🔹 R² Score    | 0.6529                 |
+
+
