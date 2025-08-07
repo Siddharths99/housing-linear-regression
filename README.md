@@ -39,3 +39,10 @@ Matplotlib
 📁Dataset
 The dataset Housing.csv must be placed in the same directory for the notebook or script to work.
 
+### 📈 Model Performance Summary
+
+| Metric        | Value                  |
+|---------------|------------------------|
+| 🔹 MAE         | 970,043.40             |
+| 🔹 MSE         | 1,754,318,687,330.66   |
+| 🔹 R² Score    | 0.6529                 |
