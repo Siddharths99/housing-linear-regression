@@ -3,6 +3,7 @@ This project demonstrates how to predict housing prices using a linear regressio
 The goal is to train a machine learning model that can estimate house prices based on these features.
 
 Libraries Used:-
+---------------
 
 Pandas
 
@@ -11,13 +12,14 @@ numbpy
 Scikit-learn
 
 Matplotlib
----------------------------------
 
 Intallation:-
+------------
 
 pip install pandas numpy scikit-learn matplotlib
 
 The process includes:
+
 
 1.Loading and exploring the dataset (Housing.csv)
 
@@ -52,6 +54,7 @@ The dataset Housing.csv must be placed in the same directory for the notebook or
 | 🔹 R² Score    | 0.6529                 |
 
 Summary
+---------------
 The project also includes a simple linear regression section using only one input (e.g., area) to visualize the regression line on a scatter plot of house prices.
 
 This project helps in understanding how regression models work and how to apply them to real world datasets. It also introduces data cleaning, feature selection, and performance evaluation essential steps in any machine learning workflow.
