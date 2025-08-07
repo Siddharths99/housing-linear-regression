@@ -19,7 +19,7 @@ Intallation:-
 pip install pandas numpy scikit-learn matplotlib
 
 The process includes:
-
+------------------------------
 
 1.Loading and exploring the dataset (Housing.csv)
 
