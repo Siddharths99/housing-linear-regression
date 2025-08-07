@@ -35,11 +35,11 @@ The process includes:
 
 7. Evaluating model performance using:
 
-a) Mean Absolute Error (MAE)
+  a) Mean Absolute Error (MAE)
 
-b) Mean Squared Error (MSE)
+  b) Mean Squared Error (MSE)
 
-c) R² Score
+  c) R² Score
 
 📁Dataset
 
