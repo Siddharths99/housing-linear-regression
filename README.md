@@ -5,13 +5,13 @@ The goal is to train a machine learning model that can estimate house prices bas
 Libraries Used:-
 ---------------
 
-1  Pandas
+1.  Pandas
 
-2  numbpy
+2.  numbpy
 
-3  Scikit-learn
+3.  Scikit-learn
 
-4  Matplotlib
+4.  Matplotlib
 
 Installation:-
 ------------
