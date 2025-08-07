@@ -13,7 +13,7 @@ Scikit-learn
 
 Matplotlib
 
-Intallation:-
+Installation:-
 ------------
 
 pip install pandas numpy scikit-learn matplotlib
