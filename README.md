@@ -38,10 +38,6 @@ b)Mean Squared Error (MSE)
 
 c)R² Score
 
-The project also includes a simple linear regression section using only one input (e.g., area) to visualize the regression line on a scatter plot of house prices.
-
-This project helps in understanding how regression models work and how to apply them to real-world datasets. It also introduces data cleaning, feature selection, and performance evaluation — essential steps in any machine learning workflow.
-
 📁Dataset
 
 The dataset Housing.csv must be placed in the same directory for the notebook or script to work.
