@@ -4,15 +4,25 @@ The goal is to train a machine learning model that can estimate house prices bas
 
 The process includes:
 1.Loading and exploring the dataset (Housing.csv)
+
 2.Preprocessing data: handling missing values, converting categorical columns (like mainroad and guestroom) into numerical format
+
 3.Selecting relevant features for model input
+
 4.Splitting the dataset into training and testing sets(80% and 20%)
+
 5.Training a linear regression model using Scikit-learn
+
 6.Making predictions on test data
+
 7.Evaluating model performance using:
+
 a)Mean Absolute Error (MAE)
+
 b)Mean Squared Error (MSE)
+
 c)R² Score
+
 
 The project also includes a simple linear regression section using only one input (e.g., area) to visualize the regression line on a scatter plot of house prices.
 
@@ -20,8 +30,11 @@ This project helps in understanding how regression models work and how to apply 
 
 Libraries Used:-
 Pandas
+
 Scikit-learn
+
 Matplotlib
+
 
 📁Dataset
 The dataset Housing.csv must be placed in the same directory for the notebook or script to work.
